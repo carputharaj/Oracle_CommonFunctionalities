@@ -1,0 +1,11 @@
+﻿{
+  "Id": "mPTmtLtqd0SqfBciveAJ7w",
+  "Reference": "AmyaEQrVeEWjTXK5zRF8gQ/mPTmtLtqd0SqfBciveAJ7w",
+  "Name": "Oracle Signin",
+  "Type": "App",
+  "Created": "2022-12-07T17:16:59.0791064Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-07T17:16:59.0791064Z"
+}

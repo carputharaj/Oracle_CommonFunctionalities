@@ -1,0 +1,13 @@
+﻿{
+  "Id": "20n7KDFfxkGFjRS0dD2tnw",
+  "Reference": "AmyaEQrVeEWjTXK5zRF8gQ/20n7KDFfxkGFjRS0dD2tnw",
+  "ParentRef": "AmyaEQrVeEWjTXK5zRF8gQ/SDh4XQFiRUaZa5l0aaXwcQ",
+  "Name": "INPUT userid",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-12-07T17:16:59.1608692Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-07T17:16:59.1608692Z"
+}
