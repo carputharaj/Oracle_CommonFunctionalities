@@ -1,0 +1,75 @@
+{
+  "DisplayName": "Oracle_Login",
+  "Tooltip": "Workflows: Login Oracle Web Application\nDescription: Opens target URL in Chrome Browser and login Oracle.\nPre-Condition: All chrome browsers must be close.\nPost-Condition: Oracle Home page should be visible.\nIn Arguments: \n1.OrchestratorFolder Path\n2. Oracle URL\n3. Oracle Credential Name\nOut Argument:\n1. Exception Message",
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "in_str_Orchestrator_FolderPath",
+      "DisplayName": "in_str_Orchestrator_FolderPath",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_str_OracleCredential",
+      "DisplayName": "in_str_OracleCredential",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_str_OracleURL",
+      "DisplayName": "in_str_OracleURL",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "out_str_ExceptionMessage",
+      "DisplayName": "out_str_ExceptionMessage",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "out_bool_SuccessfullyLoggedIn",
+      "DisplayName": "out_bool_SuccessfullyLoggedIn",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_int_RetryNo",
+      "DisplayName": "in_int_RetryNo",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "DataSourceItems": null
+    }
+  ]
+}

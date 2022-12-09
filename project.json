@@ -1,20 +1,16 @@
 {
-  "name": "RoboticEnterpriseFramework",
-  "description": "Robotic Enterprise Framework",
-  "main": "Main.xaml",
+  "name": "Library.Oracle_v0.0.1",
+  "description": "This Library contains Oracle Common Functionalities like Login and Logout\r\nPre Condition for Login : Chrome must be closed and Oracle must be logged Out.\r\nPre Condition for Logout : Oracle must be already logged in.",
+  "main": "NewActivity.xaml",
   "dependencies": {
-    "Library.Oracle_CommonFunctionalities": "[1.0.3]",
-    "UiPath.Excel.Activities": "[2.16.0]",
-    "UiPath.GSuite.Activities": "[1.16.2]",
-    "UiPath.System.Activities": "[22.10.3]",
-    "UiPath.Testing.Activities": "[22.10.0]",
-    "UiPath.UIAutomation.Activities": "[22.10.3]"
+    "UiPath.System.Activities": "22.10.3",
+    "UiPath.UIAutomation.Activities": "22.10.3"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "22.10.3.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.4",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -34,7 +30,7 @@
   },
   "designOptions": {
     "projectProfile": "Developement",
-    "outputType": "Process",
+    "outputType": "Library",
     "libraryOptions": {
       "includeOriginalXaml": false,
       "privateWorkflows": []
@@ -42,61 +38,10 @@
     "processOptions": {
       "ignoredFiles": []
     },
-    "fileInfoCollection": [
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "d79b2af6-fb80-4806-984d-e6ba157ab07c",
-        "testCaseType": "TestCase",
-        "executionTemplateType": "Local",
-        "fileName": "Tests\\GetTransactionDataTestCase.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "74884715-8267-470b-a1e8-b5b175c82a08",
-        "testCaseType": "TestCase",
-        "executionTemplateType": "Local",
-        "fileName": "Tests\\InitAllApplicationsTestCase.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "d4d9f03c-17f6-4899-9ff8-b6fe9bda5cee",
-        "testCaseType": "TestCase",
-        "executionTemplateType": "Local",
-        "fileName": "Tests\\InitAllSettingsTestCase.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "9597b64b-2bda-4fc0-9240-2d199586fec3",
-        "testCaseType": "TestCase",
-        "executionTemplateType": "Local",
-        "fileName": "Tests\\MainTestCase.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "249cc13a-2092-4fe0-93ad-4ef34e512324",
-        "testCaseType": "TestCase",
-        "executionTemplateType": "Local",
-        "fileName": "Tests\\ProcessTestCase.xaml"
-      },
-      {
-        "editingStatus": "InProgress",
-        "testCaseId": "d199968b-bcbc-460a-b5fb-e92978c813a2",
-        "testCaseType": "TestCase",
-        "executionTemplateType": "Local",
-        "fileName": "Tests\\WorkflowTestCaseTemplate.xaml"
-      }
-    ],
+    "fileInfoCollection": [],
     "modernBehavior": true
   },
   "expressionLanguage": "VisualBasic",
-  "entryPoints": [
-    {
-      "filePath": "Main.xaml",
-      "uniqueId": "2187f211-40cb-473e-b808-76306d1319bb",
-      "input": [],
-      "output": []
-    }
-  ],
   "isTemplate": false,
   "templateProjectData": {},
   "publishData": {},

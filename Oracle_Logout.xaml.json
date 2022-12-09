@@ -1,0 +1,53 @@
+{
+  "DisplayName": "Oracle_Logout",
+  "Tooltip": "Description : Logout Oracle Application\nPre Condition : Aplication to be Logged In\nPost Condition : After Complete Logout, Sign In screen is visible and Oracle window is closed\nIn Argument :\n1. Oracle URL\nOut Argument :\n1. Exception Message\n\n",
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "in_str_OracleURL",
+      "DisplayName": "in_str_OracleURL",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "out_str_ExceptionMessage",
+      "DisplayName": "out_str_ExceptionMessage",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "out_bool_LogoutSuccessfull",
+      "DisplayName": "out_bool_LogoutSuccessfull",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_int_RetryNo",
+      "DisplayName": "in_int_RetryNo",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "DataSourceItems": null
+    }
+  ]
+}
