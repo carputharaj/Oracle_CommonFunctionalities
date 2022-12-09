@@ -1,0 +1,12 @@
+﻿{
+  "Id": "80f6Wferqkm5_v2YBcaPKg",
+  "Reference": "4oFHpoHgD06cogzOgJ_tZw/80f6Wferqkm5_v2YBcaPKg",
+  "ParentRef": "4oFHpoHgD06cogzOgJ_tZw/WEg9IDPOQUmDypUULZOWzw",
+  "Name": "Chrome: Welcome",
+  "Type": "Screen",
+  "Created": "2022-12-06T17:52:59.6941546Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-06T17:52:59.6941546Z"
+}

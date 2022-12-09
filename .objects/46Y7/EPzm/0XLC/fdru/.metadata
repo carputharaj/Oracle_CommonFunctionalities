@@ -1,0 +1,13 @@
+﻿{
+  "Id": "fdrufUQYCEmVNX7aKe2ZmA",
+  "Reference": "4oFHpoHgD06cogzOgJ_tZw/fdrufUQYCEmVNX7aKe2ZmA",
+  "ParentRef": "4oFHpoHgD06cogzOgJ_tZw/0XLCG4ZMjEaMzWULU1AMkQ",
+  "Name": "Company Single Sign-On",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-12-06T17:52:59.6440471Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-06T17:52:59.6440471Z"
+}

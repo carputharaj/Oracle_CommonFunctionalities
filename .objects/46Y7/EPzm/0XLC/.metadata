@@ -1,0 +1,12 @@
+﻿{
+  "Id": "0XLCG4ZMjEaMzWULU1AMkQ",
+  "Reference": "4oFHpoHgD06cogzOgJ_tZw/0XLCG4ZMjEaMzWULU1AMkQ",
+  "ParentRef": "4oFHpoHgD06cogzOgJ_tZw/EPzmyPAWz0iCba1WVAoSQg",
+  "Name": "Chrome: Sign In",
+  "Type": "Screen",
+  "Created": "2022-12-06T17:52:59.6238101Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-06T17:52:59.6238101Z"
+}

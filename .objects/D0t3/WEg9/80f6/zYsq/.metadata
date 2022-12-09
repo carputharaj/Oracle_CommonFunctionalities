@@ -1,0 +1,16 @@
+﻿{
+  "Id": "zYsqJUD4wUWbwhHWzeG1sw",
+  "Reference": "4oFHpoHgD06cogzOgJ_tZw/zYsqJUD4wUWbwhHWzeG1sw",
+  "ParentRef": "4oFHpoHgD06cogzOgJ_tZw/80f6Wferqkm5_v2YBcaPKg",
+  "Name": "signonCheck",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Created": "2022-12-06T17:52:59.714615Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-06T17:52:59.714615Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

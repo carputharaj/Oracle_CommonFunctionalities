@@ -1,0 +1,11 @@
+﻿{
+  "Id": "46Y7owDX1U-OUWzFxbYqfg",
+  "Reference": "4oFHpoHgD06cogzOgJ_tZw/46Y7owDX1U-OUWzFxbYqfg",
+  "Name": "Chrome: Sign In app",
+  "Type": "App",
+  "Created": "2022-12-06T17:52:59.6055108Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-06T17:52:59.6055108Z"
+}
